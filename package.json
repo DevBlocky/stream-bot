@@ -1,0 +1,17 @@
+{
+  "name": "stream-bot",
+  "version": "0.1.0",
+  "description": "A bot that easily stream music from your favorite website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "BlockBa5her",
+  "license": "MIT",
+  "dependencies": {
+    "current": "^0.1.6",
+    "discord.js": "^11.2.1",
+    "node-opus": "^0.2.7"
+  }
+}

@@ -1,0 +1,6 @@
+# There's only a couple things to get rid of
+
+# U have to download these yourselves
+node_modules/
+# My config, default.config.json already included, just c/p that
+config.json

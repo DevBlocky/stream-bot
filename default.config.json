@@ -1,0 +1,17 @@
+{
+    "bot": {
+        "token": "THE TOKEN OF THE BOT HERE",
+        "nickname": "DEFAULT",
+        "music_channel": "ID OF CHANNEL HERE",
+        "game": "DEFAULT",
+        "cmd_prefix": "??",
+        "owners": [
+            "OWNERID_1",
+            "OWNERID_2"
+        ]
+    }, 
+    "radio": {
+        "volume": 1,
+        "stream_url": "http://STREAM.URL"
+    }
+}
