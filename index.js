@@ -60,7 +60,7 @@ const cmds = [
     {name: "volume", exec: (msg, args) => {
         if (dispatcher) { // check for dispatcher
             dispatcher.setVolume(args[0]); // set vol
-            msg ? msg.reply(`Mr. Einstien, ${args[0]} is the right ratio!`) : console.log(`Mr. Einstien, ${args[0]} is the right ratio!`);
+            msg ? msg.reply(`Mr. Einstien, ${args[0]} is the right ratio!`) : console.log(`Mr. Einstein, ${args[0]} is the right ratio!`);
         }
     }},
     {name: "nick", exec: (msg, args) => {
